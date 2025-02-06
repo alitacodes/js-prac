@@ -1,1 +1,1 @@
-# js-prac
+# Learning JavaScript
