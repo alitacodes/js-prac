@@ -8,7 +8,7 @@ let accountState
 //accountId = 2 //not allowed
 /*
 Prefer not to use var
-because of issue in block scopeand functional scope
+because of issue in block scope and functional scope
 */
 accountEmail = "hello45@google.com"
 accountPassword = "3737373737"
