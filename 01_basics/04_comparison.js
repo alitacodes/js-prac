@@ -1,7 +1,7 @@
-// console.log("2" > 1); // different data types comparison
+console.log("2" > 1); // different data types comparison
 //                       // gives true, but sometimes may give unpredictable o/p
 //                       // preferred to compare two values of same data type
-// console.log("02" > 1);
+console.log("02" > 1);
 
 
 /* AVOID these types of comparisons */
